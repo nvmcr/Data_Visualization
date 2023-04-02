@@ -2,7 +2,7 @@
 ## Problem Statement
 Your task is to design a static (i.e., single image) visualization that you believe effectively communicates the data and provide a short write-up (no more than 4 paragraphs) describing your design. Start by choosing a question you'd like your visualization to answer. Design your visualization to answer that question, and use the question as the title of your graphic.
 ## Data Set
-The climate of a place can have a tremendous impact on people's lived experience, ranging from personal moods to how an entire region defines itself. Here, you will examine a set of average monthly climate measurements for six major U.S. cities, roughly covering the edges of the continental United States. The updated dataset is in [link](data.csv).
+The climate of a place can have a tremendous impact on people's lived experience, ranging from personal moods to how an entire region defines itself. Here, you will examine a set of average monthly climate measurements for six major U.S. cities, roughly covering the edges of the continental United States. The updated dataset is in [link](sunshine.csv).
 
 ### Extra Info:
 On the assignment web page, it is said that the climate of a place can have a tremendous impact. But the data contains only the sunshine hours of cities. So I searched for additional monthly data on the given 6 cities. I found household energy consumption in kWh from U.S Energy Information Agency and Air Pollution Index (API) from Environmental Protection Agency.
@@ -10,7 +10,7 @@ On the assignment web page, it is said that the climate of a place can have a tr
 ## Question:
 How do sunshine hours affect Energy consumption and API with respect to location?
 ## Final Plot
-![Visualization](a1_visualization.png)
+![Visualization](visualization.png)
 ## Plan of Action:
 My goal is not just to show how the sunshine influences energy and API but also how the influence change with respect to location. In process of doing this, I want to get as many insights as possible. So I decided to reach the goal in three steps.
 1. Visualize 'Location vs Sunshine' hours first
