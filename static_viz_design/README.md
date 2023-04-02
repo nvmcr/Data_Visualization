@@ -10,6 +10,7 @@ On the assignment web page, it is said that the climate of a place can have a tr
 ## Question:
 How do sunshine hours affect Energy consumption and API with respect to location?
 ## Final Plot
+Notebook: [link](DataViz1.ipynb)
 ![Visualization](visualization.png)
 ## Plan of Action:
 My goal is not just to show how the sunshine influences energy and API but also how the influence change with respect to location. In process of doing this, I want to get as many insights as possible. So I decided to reach the goal in three steps.
